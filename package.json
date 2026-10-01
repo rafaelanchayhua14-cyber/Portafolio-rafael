@@ -1,0 +1,13 @@
+{
+  "name": "portafolio-digital-rafael",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portafolio digital de Rafael: trayectoria, proyectos de 2026 y objetivos a 5 años.",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Sitio estático: no requiere build'",
+    "preview": "vercel --version"
+  },
+  "keywords": ["portafolio", "html", "css", "javascript", "vercel"],
+  "license": "MIT"
+}
