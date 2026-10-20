@@ -2,15 +2,15 @@
 /* Edita este array con tus proyectos reales. */
 const PROYECTOS = [
   { mes: "Enero", num: "01", cat: "estudio", titulo: "Investigación para el concurso Huarmis", desc: "Analicé el problema educativo que quiero atacar y definí la propuesta inicial.", estado: "Completado" },
-  { mes: "Febrero", num: "02", cat: "producto", titulo: "Prototipo de plataforma educativa", desc: "Primera versión funcional de mi herramienta paracentralizar recursos de estudio.", estado: "Completado" },
+  { mes: "Febrero", num: "02", cat: "producto", titulo: "Aprendí un poco de portugués", desc: "Comencé a estudiar y practicar el idioma portugués.", estado: "Completado" },
   { mes: "Marzo", num: "03", cat: "estudio", titulo: "Aprendizaje de desarrollo web", desc: "Profundicé en HTML, CSS, JavaScript y bases de datos con proyectos propios.", estado: "Completado" },
-  { mes: "Abril", num: "04", cat: "comunidad", titulo: "Taller de tecnología para estudiantes", desc: "Organicé una sesión práctica para compartir lo que aprendí con más compañeros.", estado: "Completado" },
+  { mes: "Abril", num: "04", cat: "comunidad", titulo: "Club de robótica", desc: "Formé un club de robótica.", estado: "Completado" },
   { mes: "Mayo", num: "05", cat: "producto", titulo: "Mejoras de usabilidad del prototipo", desc: "Rediseñé la interfaz basándome en las respuestas de los usuarios piloto.", estado: "Completado" },
-  { mes: "Junio", num: "06", cat: "producto", titulo: "Preparación de la propuesta al concurso", desc: "Documenté el proyecto, los objetivos y el impacto esperado para presentar en Huarmis.", estado: "En curso" },
-  { mes: "Julio", num: "07", cat: "comunidad", titulo: "Alianzas con colegios locales", desc: "Busqué alianzas con instituciones para probar la herramienta con estudiantes reales.", estado: "Próximo" },
-  { mes: "Agosto", num: "08", cat: "estudio", titulo: "Investigación para la Universidad de TERT", desc: "Estudié los programas de la Universidad de TERT para preparar mi postulación.", estado: "Próximo" },
-  { mes: "Septiembre", num: "09", cat: "producto", titulo: "Lanzamiento público de la plataforma", desc: "Publicación de la versión estable y campaña de difusión para sumar usuarios.", estado: "Próximo" },
-  { mes: "Octubre", num: "10", cat: "comunidad", titulo: "Programa de mentoría", desc: "Acompañé a estudiantes más jóvenes con clases de programación y apoyo académico.", estado: "Planificado" },
+  { mes: "Junio", num: "06", cat: "producto", titulo: "Preparación de la propuesta al concurso", desc: "Documenté el proyecto, los objetivos y el impacto esperado para presentar en Huarmis.", estado: "Completado" },
+  { mes: "Julio", num: "07", cat: "comunidad", titulo: "Alianzas con colegios locales", desc: "Busqué alianzas con instituciones para probar la herramienta con estudiantes reales.", estado: "Completado" },
+  { mes: "Agosto", num: "08", cat: "estudio", titulo: "Investigación para la Universidad de TERT", desc: "Estudié los programas de la Universidad de TERT para preparar mi postulación.", estado: "Completado" },
+  { mes: "Septiembre", num: "09", cat: "producto", titulo: "Lanzamiento público de la plataforma", desc: "Publicación de la versión estable y campaña de difusión para sumar usuarios.", estado: "Completado" },
+  { mes: "Octubre", num: "10", cat: "comunidad", titulo: "Programa de mentoría", desc: "Acompañé a estudiantes más jóvenes con clases de programación y apoyo académico.", estado: "Completado" },
   { mes: "Noviembre", num: "11", cat: "estudio", titulo: "Preparación de Admissions (MIT / Harvard)", desc: "Reúno requisitos, referencias y portafolio para las postulaciones de posgrado.", estado: "Planificado" },
   { mes: "Diciembre", num: "12", cat: "producto", titulo: "Evaluación anual y plan 2027", desc: "Reviso resultados, mido el impacto y defino las prioridades del siguiente año.", estado: "Planificado" },
 ];
